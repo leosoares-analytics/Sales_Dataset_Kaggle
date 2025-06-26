@@ -12,17 +12,12 @@ A expansão feita pelo ChatGPT teve o intuito de aumentar a quantidade de anos d
 
 Date: Data da transação.
 
-Gender: Genero do cliente.
-
-Age: Idade do cliente no momento da compra.
-
-Product Category: Categoria do item comprado (ex.: Beleza, Roupas, Eletrônicos).
-
-Quantity: Número de unidades compradas na transação.
-
-Price per Unit: Custo de um item na categoria selecionada.
-
-Total Amount: Valor total gasto (Quantidade × Preço por Unidade).
+- Gender: Genero do cliente.
+- Age: Idade do cliente no momento da compra.
+- Product Category: Categoria do item comprado (ex.: Beleza, Roupas, Eletrônicos).
+- Quantity: Número de unidades compradas na transação.
+- Price per Unit: Custo de um item na categoria selecionada.
+- Total Amount: Valor total gasto (Quantidade × Preço por Unidade).
 
 ## Analise
 
@@ -42,4 +37,11 @@ Existem linhas em branco e com dados documentados de forma errada.
 
 ## Conclusões e Propostas
 
-Ainda muito cedo para alguma
+Conclusões:
+- A faixa etária das vendas é grande
+- Ticket médio R$494,57
+- Sazonalidade das vendas
+- A maior parte das vendas tanto em quantidade, quanto lucros é representado por roupas e eltronicos.
+
+Propostas:
+-Basear a remuneração dos funcionarios nos lucros de meses como janeiro e incluir bonus em datas festivas ou contratar temporariamente outros funcionarios em meses com datas festivas.
