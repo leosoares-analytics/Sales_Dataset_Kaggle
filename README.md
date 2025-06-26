@@ -44,4 +44,4 @@ Conclusões:
 - A maior parte das vendas tanto em quantidade, quanto lucros é representado por roupas e eltronicos.
 
 Propostas:
--Basear a remuneração dos funcionarios nos lucros de meses como janeiro e incluir bonus em datas festivas ou contratar temporariamente outros funcionarios em meses com datas festivas.
+- Basear a remuneração dos funcionarios nos lucros de meses como janeiro e incluir bonus em datas festivas ou contratar temporariamente outros funcionarios em meses com datas festivas.
