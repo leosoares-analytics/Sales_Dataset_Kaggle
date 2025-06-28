@@ -10,8 +10,7 @@ A expansão feita pelo ChatGPT teve o intuito de aumentar a quantidade de anos d
 
 ### Colunas do Banco de dados
 
-Date: Data da transação.
-
+- Date: Data da transação.
 - Gender: Genero do cliente.
 - Age: Idade do cliente no momento da compra.
 - Product Category: Categoria do item comprado (ex.: Beleza, Roupas, Eletrônicos).
